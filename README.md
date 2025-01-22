@@ -43,7 +43,7 @@
 
 # 開発環境
 - Windows11
-- OpenCV.js 4.4.0
+- OpenCV.js 4.9.0
 
 
 
